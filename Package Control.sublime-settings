@@ -1,0 +1,9 @@
+{
+	"installed_packages":
+	[
+		"Autoprefixer",
+		"Emmet",
+		"Package Control",
+		"Python Flake8 Lint"
+	]
+}
