@@ -1,0 +1,5 @@
+# ignore finder specified presentation style file
+.DS_Store
+
+# ignore Sublime Text2 Package Control cache
+Package Control.cache 
